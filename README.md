@@ -55,7 +55,8 @@ La préparation du dashboard ne prend pas beaucoup de temps:
 
 ![image](https://user-images.githubusercontent.com/95342035/161949621-afb0d479-05d7-4d78-9424-55157e0fbed0.png)
 
-![image](https://user-images.githubusercontent.com/95342035/161957582-93adaf10-a5fc-49c2-a7db-6b58878ccbf7.png)
+![image](https://user-images.githubusercontent.com/95342035/161962039-055da1cd-75f5-4a73-916d-e45f86e92079.png)
+
 
 
 La magie d'internet. 
